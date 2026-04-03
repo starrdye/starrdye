@@ -20,9 +20,9 @@ Currently a **Fund Operations Intern at Ternary Fund Management**, where I also 
 I'm a genuine tech lover — not just someone who codes for a living, but someone who gets genuinely excited watching technology change the world in real, tangible ways.
 
 My hands-on experience with AI and machine learning spans both ends of the stack:
-- At **Panasonic**, I architected a real-time computer vision pipeline using OpenCV and YOLO to detect distorted QR codes in industrial environments
-- At **GIC** (Singapore's sovereign wealth fund), I worked on data ingestion pipelines as part of their SPO division, giving me an early look at how institutions handle data at scale
-- At **Mai Gu Technology**, I built a high-throughput ETL pipeline processing parallel barcode streams and integrating with Manufacturing Execution Systems via TCP/UDP and PLC protocols
+- Built a real-time **computer vision pipeline** using OpenCV and YOLO for industrial QR code defect detection in high-throughput environments
+- Worked on **data ingestion and ETL pipelines** at institutional scale, processing and normalising large financial datasets across complex data infrastructures
+- Designed a **high-throughput ETL system** for parallel barcode stream processing, integrating with Manufacturing Execution Systems over TCP/UDP and PLC protocols
 
 Beyond traditional finance, I've assisted with the setup of a few **Web3 fund structures** — getting firsthand exposure to how decentralised infrastructure intersects with institutional capital.
 
