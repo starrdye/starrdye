@@ -25,7 +25,7 @@ My hands-on experience with AI and machine learning spans both ends of the stack
 
 Beyond traditional finance, I've assisted with the setup of a few **Web3 fund structures** — getting firsthand exposure to how decentralised infrastructure intersects with institutional capital.
 
-On the fund side, I'm currently building **[Workable](https://github.com/starrdye/workable)** — a project that sits right at that intersection, using distributed reasoning to make complex workflows mappable, teachable, and continuously improvable.
+On the fun side, I'm currently building **[Workable](https://github.com/starrdye/workable)** — a personal AI-powered workflow mapper that turns a plain-English description of how you work into an interactive process graph. It spots bottlenecks, groups steps into phases, assigns tasks to each node, and lets you apply AI-suggested optimisations with a single click. Built with Next.js, React, and a multi-provider AI backend (Claude, Gemini, Doubao) — just for the joy of building something genuinely useful.
 
 Right now, my biggest obsession is the question: **how do AI and Web3 transform finance?** Whether it's automating the analyst's workflow, making fund reporting instant and auditable, or rethinking how capital flows in a decentralised world — that's the space I want to build in. **[Workable](https://github.com/starrdye/workable)** is my current answer to part of that question.
 
