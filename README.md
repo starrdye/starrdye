@@ -10,7 +10,7 @@ Currently a **Fund Operations Intern at Ternary Fund Management**, where I also 
 
 - **[Workable](https://github.com/starrdye/workable)** *(coming soon)* — A distributed reasoning engine that maps, teaches, and evolves workflows. Think of it as the smartest onboarding tool that never gets tired.
 - **[Gravion](https://github.com/starrdye/gravion)** — My own quant terminal for scanning NASDAQ 100 stocks using MA crossover + earnings growth signals, built on top of the Moomoo OpenD API.
-- **[Cipres](https://github.com/starrdye/cipres)** — A privacy-first BI dashboard that transforms raw operational data into professional, print-ready reports entirely in the browser — no sensitive data ever leaves your machine. Features dynamic charting, multi-template support, persistent IndexedDB tracking, and an optional AI ingestion layer with a self-correcting audit dashboard.
+- **[Cipres](https://github.com/starrdye/cipres)** — A privacy-first BI dashboard that transforms raw operational data into professional, print-ready reports entirely in the browser — no sensitive data ever leaves your machine. Powered by smart AI-driven data ingestion, customisable charting, and a self-correcting audit layer that traces every number back to its source.
 - **[Mood Notes](https://github.com/starrdye/mood-notes)** — A mood tracking app to log daily emotions and reflect on patterns over time.
 
 ---
@@ -20,9 +20,8 @@ Currently a **Fund Operations Intern at Ternary Fund Management**, where I also 
 I'm a genuine tech lover — not just someone who codes for a living, but someone who gets genuinely excited watching technology change the world in real, tangible ways.
 
 My hands-on experience with AI and machine learning spans both ends of the stack:
-- Built a real-time **computer vision pipeline** using OpenCV and YOLO for industrial QR code defect detection in high-throughput environments
-- Worked on **data ingestion and ETL pipelines** at institutional scale, processing and normalising large financial datasets across complex data infrastructures
-- Designed a **high-throughput ETL system** for parallel barcode stream processing, integrating with Manufacturing Execution Systems over TCP/UDP and PLC protocols
+- At **Panasonic**, I architected a real-time computer vision pipeline using OpenCV and YOLO to detect distorted QR codes in industrial environments
+- At **GIC** (Singapore's sovereign wealth fund), I worked on data ingestion pipelines as part of their SPO division, giving me an early look at how institutions handle data at scale
 
 Beyond traditional finance, I've assisted with the setup of a few **Web3 fund structures** — getting firsthand exposure to how decentralised infrastructure intersects with institutional capital.
 
