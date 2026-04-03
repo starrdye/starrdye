@@ -10,7 +10,7 @@ Currently a **Fund Operations Intern at Ternary Fund Management**, where I also 
 
 - **[Workable](https://github.com/starrdye/workable)** *(coming soon)* — A distributed reasoning engine that maps, teaches, and evolves workflows. Think of it as the smartest onboarding tool that never gets tired.
 - **[Gravion](https://github.com/starrdye/gravion)** — My own quant terminal for scanning NASDAQ 100 stocks using MA crossover + earnings growth signals, built on top of the Moomoo OpenD API.
-- **[Financial Factsheet Automator](https://github.com/starrdye/financial-factsheet-automator)** — A privacy-first React app that turns raw IBKR CSV exports into polished PDF factsheets, with optional Gemini AI data ingestion and a self-correcting audit dashboard.
+- **[Cipres](https://github.com/starrdye/cipres)** — A privacy-first BI dashboard that transforms raw operational data into professional, print-ready reports entirely in the browser — no sensitive data ever leaves your machine. Features dynamic charting, multi-template support, persistent IndexedDB tracking, and an optional AI ingestion layer with a self-correcting audit dashboard.
 - **[Mood Notes](https://github.com/starrdye/mood-notes)** — A mood tracking app to log daily emotions and reflect on patterns over time.
 
 ---
@@ -28,7 +28,7 @@ Beyond traditional finance, I've assisted with the setup of a few **Web3 fund st
 
 On the fun side, I'm currently building **[Workable](https://github.com/starrdye/workable)** — a personal AI-powered workflow mapper that turns a plain-English description of how you work into an interactive process graph. It spots bottlenecks, groups steps into phases, assigns tasks to each node, and lets you apply AI-suggested optimisations with a single click. Built with Next.js, React, and a multi-provider AI backend (Claude, Gemini, Doubao) — just for the joy of building something genuinely useful.
 
-Right now, my biggest obsession is the question: **how do AI and Web3 transform finance?** Whether it's automating the analyst's workflow, making fund reporting instant and auditable, or rethinking how capital flows in a decentralised world — that's the space I want to build in. **[Workable](https://github.com/starrdye/workable)** is my current answer to part of that question.
+Right now, my biggest obsession is the question: **how do AI and Web3 transform finance?** Whether it's automating the analyst's workflow, making fund reporting instant and auditable, or rethinking how capital flows in a decentralised world — that's the space I want to build in.
 
 ---
 
