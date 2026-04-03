@@ -16,10 +16,18 @@ Currently a **Fund Operations Intern at Ternary Fund Management**, where I also 
 
 ## A bit about me
 
-- Previously interned at **Panasonic** (computer vision pipeline for industrial QR detection) and **Mai Gu Technology** (ETL pipeline for barcode data warehousing)
-- I like writing things that are a little more fun than they need to be — whether that's a [Cham script virtual keyboard](https://github.com/starrdye/ChamVirtualKeyboard) for a community that needed one, or a CAPTCHA generator that uses a GAN just because it could
-- I'm interested in the intersection of **finance and software** — building tools that give retail traders the kind of analytical edge that used to require a Bloomberg terminal
-- When I'm not shipping code, I'm probably thinking about numbers, markets, or how to make things run faster
+I'm a genuine tech lover — not just someone who codes for a living, but someone who gets genuinely excited watching technology change the world in real, tangible ways.
+
+My hands-on experience with AI and machine learning spans both ends of the stack:
+- At **Panasonic**, I architected a real-time computer vision pipeline using OpenCV and YOLO to detect distorted QR codes in industrial environments
+- At **GIC** (Singapore's sovereign wealth fund), I worked on data ingestion pipelines as part of their SPO division, giving me an early look at how institutions handle data at scale
+- At **Mai Gu Technology**, I built a high-throughput ETL pipeline processing parallel barcode streams and integrating with Manufacturing Execution Systems via TCP/UDP and PLC protocols
+
+Beyond traditional finance, I've assisted with the setup of a few **Web3 fund structures** — getting firsthand exposure to how decentralised infrastructure intersects with institutional capital.
+
+Right now, my biggest obsession is the question: **how do AI and Web3 transform finance?** Whether it's automating the analyst's workflow, making fund reporting instant and auditable, or rethinking how capital flows in a decentralised world — that's the space I want to build in.
+
+I also like writing things that are a little more fun than they need to be — like a [Cham script virtual keyboard](https://github.com/starrdye/ChamVirtualKeyboard) for a community that needed one, or a CAPTCHA generator that uses a GAN just because it could.
 
 ---
 
