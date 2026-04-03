@@ -11,6 +11,7 @@ Currently a **Fund Operations Intern at Ternary Fund Management**, where I also 
 - **[Workable](https://github.com/starrdye/workable)** *(coming soon)* — A distributed reasoning engine that maps, teaches, and evolves workflows. Think of it as the smartest onboarding tool that never gets tired.
 - **[Gravion](https://github.com/starrdye/gravion)** — My own quant terminal for scanning NASDAQ 100 stocks using MA crossover + earnings growth signals, built on top of the Moomoo OpenD API.
 - **[Financial Factsheet Automator](https://github.com/starrdye/financial-factsheet-automator)** — A privacy-first React app that turns raw IBKR CSV exports into polished PDF factsheets, with optional Gemini AI data ingestion and a self-correcting audit dashboard.
+- **[Mood Notes](https://github.com/starrdye/mood-notes)** — A mood tracking app to log daily emotions and reflect on patterns over time.
 
 ---
 
@@ -33,12 +34,4 @@ Right now, my biggest obsession is the question: **how do AI and Web3 transform 
 
 ## Tech I reach for
 
-`TypeScript` `React` `Python` `Java` `C++` `Node.js`  
-`Electron` `FastAPI` `PostgreSQL` `SQLite` `IndexedDB`  
-`OpenCV` `YOLO` `Gemini AI`
-
----
-
-## Find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Xingye%20Zhou-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/xingye-zhou-57859320b/)
+`TypeScript` `React` `Python` `Java` `C++` `Node.js`
